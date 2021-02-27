@@ -1,0 +1,38 @@
+{
+  "name": "plantedbyannie",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.6.1",
+    "react-dom": "^16.14.0",
+    "react-icons": "^4.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "2.1.1",
+    "styled-components": "^5.2.1"
+  },
+  "scripts": {
+    "dev": "BROWSER=none react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "start": "react-scripts start"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "description": "![React Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/react.svg)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonetteortiz/plantedbyannie.git"
+  },
+  "author": "Antonette Ortiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonetteortiz/plantedbyannie/issues"
+  },
+  "homepage": "https://github.com/antonetteortiz/plantedbyannie#readme"
+}
