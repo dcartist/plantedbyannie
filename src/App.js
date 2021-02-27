@@ -1,6 +1,7 @@
 import React, {useState}from 'react';
 import Footer from './Components/Footer';
 import Navbar from './Components/Navbar';
+import GlobalStyle from './GlobalStyles';
 import { Switch, Route } from 'react-router-dom'
 import Home from './Pages/Home';
 import About from './Pages/About';
@@ -17,6 +18,7 @@ function App() {
 
   return (
     <>
+      <GlobalStyle />
       <Navbar toggle={toggle} />
       {/* <DropDown isOpen={isOpen} toggle={toggle} /> */}
       <Switch>
