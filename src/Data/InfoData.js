@@ -1,7 +1,6 @@
 import ImageOne from "../images/1infopic.jpeg";
 import ImageTwo from '../images/2infopic.jpeg'
 
-
 export const InfoData = {
          heading: "Explore more plants",
          paragraphOne:
